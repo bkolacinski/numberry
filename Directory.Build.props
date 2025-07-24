@@ -43,7 +43,7 @@
     <Authors>bkolacinski</Authors>
     <Company>com.github.$(Authors)</Company>
     <Copyright>Copyright © $(Authors) $([System.DateTime]::Now.Year)</Copyright>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Description>Displays numerical values on stamina, bonus stamina, and affliction bars with extensive customization options.</Description>
     <Product>Numberry</Product>
   </PropertyGroup>
