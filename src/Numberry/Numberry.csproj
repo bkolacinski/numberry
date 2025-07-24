@@ -7,8 +7,6 @@
     <AssemblyName>com.github.bkolacinski.numberry</AssemblyName>
     <!-- This is the display name of your mod. Example: BepInEx Template -->
     <AssemblyTitle>Numberry</AssemblyTitle>
-    <!-- This is the version number of your mod. -->
-    <Version>0.1.0</Version>
   </PropertyGroup>
 
   <!--

@@ -1,4 +1,4 @@
-﻿# Numberry
+# Numberry
 
 Displays numerical values on stamina, bonus stamina, and affliction bars in PEAK.
 
