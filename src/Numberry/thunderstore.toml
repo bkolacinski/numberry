@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "bkolacinski"
 name = "Numberry"
-description = "TODO: Fill in short mod description."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+description = "Displays numerical values on stamina, bonus stamina, and affliction bars with extensive customization options."
+websiteUrl = "https://github.com/bkolacinski/numberry"
 containsNsfwContent = false
 
 [package.dependencies]
